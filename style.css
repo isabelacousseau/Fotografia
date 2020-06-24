@@ -3,6 +3,14 @@ body{
   background: #ffffff
 }
 
+@font-face {
+  font-family: Font;
+  src: url(YanoneKaffeesatz-VariableFont_wght.woff);
+}
+ #font{
+  font-size: 30px;
+  font-family: Font;
+ }
 
 #cont{
   background: #43bf9e; 
