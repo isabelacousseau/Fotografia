@@ -1,6 +1,7 @@
 body{
   margin-top: 75px; 
   background: #ffffff
+
 }
 
 ::-webkit-scrollbar {
@@ -44,11 +45,12 @@ h2{
 
  #grupo{
  	margin-top: 20px;
- 	margin-bottom: 20px;	
+ 	margin-bottom: 20px;
+
  }
  .card{
  	margin-top: 20px;
- 	margin-left: 20px;	
+ 	margin-left: 30px;	
  }
 
  .collapsible {
