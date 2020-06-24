@@ -12,6 +12,15 @@ body, html{
 }
 
 @font-face {
+  font-family: Font;
+  src: url(YanoneKaffeesatz-VariableFont_wght.woff);
+}
+ #font{
+  font-size: 30px;
+  font-family: Font;
+ }
+
+@font-face {
   font-family: Fonte;
   src: url(DancingScript-VariableFont_wght.woff);
 }
