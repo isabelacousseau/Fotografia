@@ -28,13 +28,14 @@ footer{
 }
 
 @font-face {
-  font-family: myFirstFont;
+  font-family: Fonte;
   src: url(DancingScript-VariableFont_wght.woff);
 }
 
 h3{
-  font-family: myFirstFont;
+  font-family: Fonte;
 } 
+
 ::-webkit-scrollbar {
   width: 10px;
 }
